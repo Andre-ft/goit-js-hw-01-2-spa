@@ -1,0 +1,29 @@
+{
+  "name": "goit-js-hw-01-2-spa",
+  "version": "1.0.0",
+  "description": "single page application example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andre-ft/goit-js-hw-01-2-spa.git"
+  },
+  "keywords": [],
+  "author": "Andrey F <media.andrej@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andre-ft/goit-js-hw-01-2-spa/issues"
+  },
+  "homepage": "https://github.com/Andre-ft/goit-js-hw-01-2-spa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
